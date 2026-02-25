@@ -1,0 +1,2 @@
+# intelligence-core
+AI compendium
